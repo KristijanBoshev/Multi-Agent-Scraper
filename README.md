@@ -34,4 +34,10 @@ This CrewAI Multi-Agent App scrapes song transcriptions from Beyoncé's official
 
    ```bash
    python crew.py
+
+
+## DISCLAIMER
+
+For everything to work properly, you need valid OPENAI_API_KEY or alternatively, use open source models
+   
    
